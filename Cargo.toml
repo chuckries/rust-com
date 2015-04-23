@@ -1,0 +1,7 @@
+[package]
+name = "rust-com"
+version = "0.0.1"
+authors = [ "Chuck Ries" ]
+[dependencies]
+
+libc = "0.1.6"
